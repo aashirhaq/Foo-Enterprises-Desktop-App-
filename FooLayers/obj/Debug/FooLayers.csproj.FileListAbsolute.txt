@@ -1,7 +1,0 @@
-c:\users\aashir\documents\visual studio 2015\Projects\Foo Enterprises\FooLayers\bin\Debug\FooLayers.dll
-c:\users\aashir\documents\visual studio 2015\Projects\Foo Enterprises\FooLayers\bin\Debug\FooLayers.pdb
-c:\users\aashir\documents\visual studio 2015\Projects\Foo Enterprises\FooLayers\bin\Debug\Newtonsoft.Json.dll
-c:\users\aashir\documents\visual studio 2015\Projects\Foo Enterprises\FooLayers\bin\Debug\Newtonsoft.Json.xml
-c:\users\aashir\documents\visual studio 2015\Projects\Foo Enterprises\FooLayers\obj\Debug\FooLayers.csprojResolveAssemblyReference.cache
-c:\users\aashir\documents\visual studio 2015\Projects\Foo Enterprises\FooLayers\obj\Debug\FooLayers.dll
-c:\users\aashir\documents\visual studio 2015\Projects\Foo Enterprises\FooLayers\obj\Debug\FooLayers.pdb
